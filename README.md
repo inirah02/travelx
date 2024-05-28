@@ -1,7 +1,6 @@
 # Travel Retrieval System
 
-The Travel Retrieval System is a personalized travel recommendation system based on user preferences and social connections. It utilizes content and collaborative filtering recommender systems to offer tailored suggestions for tourist attractions in major cities in Indonesia. This project was developed as part of the Capstone Project Bangkit Academy 2021.
-
+The Travel Retrieval System is a personalized travel recommendation system based on user preferences and social connections. It utilizes content and collaborative filtering recommender systems to offer tailored suggestions for tourist attractions in major cities in Indonesia.
 ## Overview
 
 The project aims to provide users with personalized travel recommendations based on their preferences, including city, price, category, and time constraints. By combining content-based and collaborative filtering techniques, the system generates final recommendation scores for users and locations, offering practical travel suggestions.
